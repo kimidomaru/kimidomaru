@@ -1,9 +1,9 @@
 <h1 align="center">Hey, Luikson Here!</h1>
 
 ## Welcome to my Github!
-I'm a DevOps Engineer, Programmer, and Gamer, not necessarily in that order.
+DevOps Engineer, Programmer, and Gamer, not necessarily in that order.
 
-I'm interested in Infrastructure as Code (IaC), Software Development, and I'm curious about Software Architecture.
+I'm interested in Infrastructure as Code (IaC), Software Development, and curious about Software Architecture.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimidomaru&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
